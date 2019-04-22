@@ -1,1 +1,1 @@
-web: node scr/loader.js
+web: node src/loader.js
